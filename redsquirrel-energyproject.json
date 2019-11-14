@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "redsquirrel-energyproject",
+  "private_key_id": "2795563e7af83a50acb97ce517ce7a8840faa167",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUsPsrbTDyJALU\naPXCajLWZQkIacR5/jFmS8mXbWYko2kDJAyv2pWDxXKHPPsgMhZKREu5ghfvO8EC\n5lOOhSvp/WWkwLEsOgQfQbXJJUT0XJVjbVURR8a0DPp8gIsZ03zejBEyXuH+dFNs\nTWwvnAsA/BbD5KTEgMy5eVHbsM2QA5zy3h3nVSUfsDHMb8fE/PJ5eRzg5Gz5QKGq\n0aFPaHSadtLI09iRyvaW9dshDviZh6EnoHaeu0CY8eyBdNHs0ODncGBM6oihGbYE\niflhM5xZJCHB7QPmP1t7cUh/NgkxLwdXfRZb09uQAzqm26bPJAeYYSOySEcGeM5I\nOwwWXtfXAgMBAAECggEAGVDBbI9QEpofrhmaGtxaFbOr6hDwvlZ3mcXuhjQSwsyi\nbKnHSs0ZG7iOI7Op7lCX35oWa0ulPqfdltNEYcPPEMhE52G6FNoI8JF5Kiph9TXp\n4A484FQrPfYHgHcqV1YZWEHSsCyj+I3u+gaTGG2Zz7GxofpedDciZvceO6hlJz1X\nJH2keuICAah/kvfYeDA3M1UeyxJT3+Ixd80mv/96Uui0UmBlwX1OpNw3x589uWBR\n7b4mackgXO9qji9OukyFaAYLzivw4YjbuEYcqIGklrHhJ+VmpRA4cINt1GmXVf+0\nRz2nFH/3h1Adv4OjDQL/VFFQzRhCUprx1Yn4+AD6NQKBgQD77CbYlsX09y/PbU21\n0/b2o56luqZoQBHhhnbmlAEJsngxf2YGrXDyEWTKzVXF6VfHDX+zWqMUMWWo7kwO\nKogEilJIcqmbmEKyEwav8t7QW+BzYYLDXpUrrOE24ze8dxKHr4yqYQ0KpU216NAX\noA0h2nyt1ikPk7fJw0fF3Vtr5QKBgQDYIkYli66diVk1Nu7kTm9Vn/zjR51XXp40\n7S7IrMrUldEBPsWv1If1hKsuwUVFoxMTnUBYaU8n49JySd0jNTCquXQmDkd0fkoE\n6D9F3cXNzLXpGJtD2IRyCw0pSwQ7UFpJYEx/7Z1qK2wV2DzutqTw0vUDbMzHirxH\nAo183bsRCwKBgQCwFqw8fn8WMGXB1oQYEXYxhcLR0vqYKhiVjDi2CUQEdDQhXQyC\npF8rRM8wFoDa2rTZVO0q/7K33aNShmaxDDeQ/OJw83zsXmxYLoZhHCF0gJQN8l3F\nk+ou4iN2CzKdUJmqMCHhwf6sr0j3WymBKgWj4SV/GRAQbE9t/0q+2nAZpQKBgQC7\nHnlCmjsT8syD8MpEaM+k/v0vPFoxQR6RTeMaI9b607X+cP0vrD4FRtX5haRWlMe4\nTIVfxdSdAXW6Ms68Y5l9xU+UfvpIFeo5c2UMNOPCt/+qDf6mb3bDUWQUovjH7Vot\neqzgeLS3LV7HTs36EbCdOtabH3/vJeK5S7F5MHJ7XwKBgFjS90j0VbVo+RVMYY3U\nnb0SHKoIAIRrNvePqgFnfJseTaMtmF+hLQfepdiSb6MHiSa0M/At1a8ziRGY9HA7\nvIwJGbTYKX1nDlvc9t+1BQw0KyXpIRLD4vlakhewzDyXPsY87jFUPoAnwWUQfh1x\nf5tgaub87N6CV44VXgpknzIS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zmmcm@redsquirrel-energyproject.iam.gserviceaccount.com",
+  "client_id": "104084895596021014476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zmmcm%40redsquirrel-energyproject.iam.gserviceaccount.com"
+}
